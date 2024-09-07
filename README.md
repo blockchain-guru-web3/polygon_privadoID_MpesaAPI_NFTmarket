@@ -29,13 +29,3 @@ Server will start running on localhost:8080
 - Visual Studio Code : https://code.visualstudio.com/
 - Remix : https://remix.ethereum.org
 
-
-
-
----
-## Developed By :
-<a href="https://thecodexpert.org" target="_blank">
-  <img src="https://thecodexpert.org/images/codexpert-logo.png" alt="ETH-DApp-Tutorials-2020" width="240" border="10" />
-</a>
-
-Visit us : https://thecodexpert.org
