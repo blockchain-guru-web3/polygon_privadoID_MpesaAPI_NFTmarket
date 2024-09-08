@@ -1,0 +1,21 @@
+{
+  "circuitId": "credentialAtomicQuerySigV2",
+  "id": 1725712251,
+  "query": {
+    "allowedIssuers": [
+      "*"
+    ],
+    "context": "ipfs://QmTkDiF5tBUkPZYpc2GVByKy3fbxz9D9BqsFCfk2HUKT9B",
+    "type": "Chefverification",
+    "credentialSubject": {
+      "Code": {
+        "$in": [
+          39,
+          45,
+          54,
+          90
+        ]
+      }
+    }
+  }
+}
